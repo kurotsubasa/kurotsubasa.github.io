@@ -548,16 +548,6 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-
-.icon {
-  height: 15vh;
-  width: 8vw;
-}
-
-.mongooseIcon {
-  height: 14vh;
-  width: 9vw;
-}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -3044,6 +3034,17 @@ input[type=button].btn-block {
     left: auto;
   }
 }
+
+.icon {
+  height: 15vh;
+  width: 8vw;
+}
+
+.mongooseIcon {
+  height: 14vh;
+  width: 9vw;
+}
+
 @media (min-width: 768px) {
   .dropdown-menu-md-left {
     right: auto;
