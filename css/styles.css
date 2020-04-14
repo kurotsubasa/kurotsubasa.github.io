@@ -3045,6 +3045,11 @@ input[type=button].btn-block {
   width: 9vw;
 }
 
+.project {
+  height: 40vh;
+  width: 50vw;
+}
+
 @media (min-width: 768px) {
   .dropdown-menu-md-left {
     right: auto;
