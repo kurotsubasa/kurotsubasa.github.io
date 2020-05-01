@@ -420,6 +420,12 @@ h6, .h6 {
   line-height: 1.2;
 }
 
+.photo {
+  border-radius: 50%;
+  height: 15vh;
+  width: 8vw;
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -487,12 +493,6 @@ mark,
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
-}
-
-.photo {
-  border-radius: 51%;
-  height: 14vh;
-  width: 8vw;
 }
 
 .figure {
