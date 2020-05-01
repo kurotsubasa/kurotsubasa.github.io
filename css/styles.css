@@ -421,7 +421,7 @@ h6, .h6 {
 }
 
 .photo {
-  border-radius: 50%;
+  border-radius: 60%;
   height: 15vh;
   width: 8vw;
 }
