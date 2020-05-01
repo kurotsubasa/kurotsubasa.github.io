@@ -489,6 +489,12 @@ mark,
   height: auto;
 }
 
+.photo {
+  border-radius: 50%;
+  height: 15vh;
+  width: 8vw;
+}
+
 .figure {
   display: inline-block;
 }
@@ -9543,7 +9549,11 @@ button.bg-dark:focus {
 
   .m-xl-n3 {
     margin: -1rem !important;
-  }
+  }.photo {
+  border-radius: 50%;
+  height: 15vh;
+  width: 8vw;
+}
 
   .mt-xl-n3,
 .my-xl-n3 {
